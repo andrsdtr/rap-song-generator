@@ -1,4 +1,4 @@
-# Rap Song Generator
+# Historical Rap Song Generator
 ### A project to explore the capabilities of LangChain.
 
 In this project I developed an agent that takes a historical event as an input and generates a rap song about it.
